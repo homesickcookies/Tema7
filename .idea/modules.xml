@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Hyperpar/Hyperpar.iml" filepath="$PROJECT_DIR$/Hyperpar/Hyperpar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algoritmos/Algoritmos.iml" filepath="$PROJECT_DIR$/Algoritmos/Algoritmos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tema7.iml" filepath="$PROJECT_DIR$/.idea/Tema7.iml" />
     </modules>
   </component>
